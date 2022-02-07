@@ -269,3 +269,15 @@ p{
     font-family: 'Baloo Bhaijaan 2', cursive;
     color: #FFFFFF;
 }
+
+
+
+
+.copyright{
+    position: absolute;
+    width: 150px;
+    margin-top: 950px;
+    margin-left: 690px;
+    font-family: 'Hepta Slab', serif;
+    color: rgb(165, 165, 165);
+}
