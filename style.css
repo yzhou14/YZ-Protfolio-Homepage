@@ -276,8 +276,9 @@ p{
 .copyright{
     position: absolute;
     width: 150px;
-    margin-top: 950px;
+    margin-top: 940px;
     margin-left: 690px;
+    font-size: 18px;
     font-family: 'Hepta Slab', serif;
-    color: rgb(165, 165, 165);
+    color: rgb(177, 177, 177, 0.8);
 }
